@@ -6,12 +6,3 @@
     <title>Test av Git</title>
 </head>
 <body>
-<ul>
-    <li>Brød</li>
-    <li>Melk</li>
-    <li>Ost</li>
-    <li>Smør</li>
-    <li>Zalo</li>
-</ul>
-</body>
-</html>
